@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Automatic SMS</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/9064203867</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str1">If you don\'t have SMS bundle,\nmessages will be charged by your operator!</string>
+    <string name="str2">Phone Number&#8230;</string>
+    <string name="str3">Contacts</string>
+    <string name="str4">Message&#8230;</string>
+    <string name="str5">Message Count : </string>
+    <string name="str6">Repeat Time(min) : </string>
+    <string name="str7">Start</string>
+    <string name="str8">Cancel</string>
+    <string name="str9">Background</string>
+    <string name="str10">sent</string>
+    <string name="str11">Sending&#8230;</string>
+    <string name="str12">Completed!</string>
+    <string name="str13">Canceled!</string>
+    <string name="str14">If you prefer, the application will run on the background, showing progress as a notification.</string>
+    <string name="str15">An error occurred picking number from contacts!</string>
+    <string name="str16">Phone number is empty !</string>
+    <string name="str17">Message count is invalid !</string>
+    <string name="str18">Repeat time is invalid !</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Otomatik SMS</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/2269642140</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="str1">SMS paketiniz veya tarifeniz yoksa,\ngönderilen mesajlar operatörünüz tarafından ücretlendirilir!</string>
+    <string name="str2">Telefon Numarası&#8230;</string>
+    <string name="str3">Rehber</string>
+    <string name="str4">Mesaj&#8230;</string>
+    <string name="str5">Mesaj Adedi : </string>
+    <string name="str6">Tekrar Süresi(dk) : </string>
+    <string name="str7">Başlat</string>
+    <string name="str8">İptal</string>
+    <string name="str9">Arka Plan</string>
+    <string name="str10">gönderildi</string>
+    <string name="str11">Gönderiliyor&#8230;</string>
+    <string name="str12">Tamamlandı!</string>
+    <string name="str13">İptal Edildi!</string>
+    <string name="str14">İsterseniz uygulama arka planda çalışır, ilerleme durumunu bildirim olarak gösterir.</string>
+    <string name="str15">Rehber\'den numara alınması sırasında hata oluştu!</string>
+    <string name="str16">Telefon numarası boş !</string>
+    <string name="str17">Mesaj adedi geçersiz !</string>
+    <string name="str18">Tekrar süresi geçersiz !</string>
+</resources>
